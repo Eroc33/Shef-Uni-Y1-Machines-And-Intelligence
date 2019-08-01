@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sheffield">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sheffield/sheffield.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
